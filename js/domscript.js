@@ -1,5 +1,7 @@
 $(function(){
 
-	$(".fancybox").fancybox();
-
+	//$(".fancybox").fancybox();
+	//$("#menu").sticky({topSpacing:0});
+	//$("a").smoothScroll();
+	
 });
